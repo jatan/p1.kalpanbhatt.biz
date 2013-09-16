@@ -1,0 +1,46 @@
+		body{
+		text-align:center;
+		background-image:url('../images/lightgradient.jpg');
+		background-size:cover;
+		}
+		p{
+		text-indent:50px;
+		text-align:justify;
+		font-family:calibri;
+		font-size:large;
+		color:#666600;
+		}
+		h1{
+		font: bold italic 2em/1em "Times New Roman", "MS Serif", "New York", serif;
+		margin: 0;
+		padding: 0;
+		color: Black;
+		}
+		#MainPhoto{
+		width:1024px;
+		height:300px;
+		border-radius: 10px;
+		}
+		#ProfilePhoto{
+		width:300px;
+		height:300px;
+		border-radius: 10px;
+		}
+		#maincontent{
+		width:50%;
+		border:2px solid #000066;
+		PADDING: 20px;
+		display:inline-block;
+		border-radius:25px;
+		background-color:lightblue;
+		}
+		#Events
+		{
+		text-align:left;
+		margin-top:1px;
+		margin-bottom:2px;
+		margin-left:15px;
+		display:inline-block;
+		float:right;
+		clear:right;
+		}
